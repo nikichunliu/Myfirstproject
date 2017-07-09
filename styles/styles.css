@@ -1,0 +1,41 @@
+
+.title{
+        background-color:red;
+        color:#fff;
+        padding: 20px;
+        padding-left:10px;
+        font-size: 40px;
+    }
+
+.highlight{
+        color:red;
+
+    }
+
+.nav-holder{
+    background-color: #efefef;
+    padding:10px;
+}
+
+.nav-home,
+.nav-about,
+.nav-profile{
+    background-color: white;
+    padding:5px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px #999;
+}
+
+.nav-home:hover,
+.nav-about:hover,
+.nav-profile:hover{
+    background-color: #3366ff;
+}
+
+.main-holder{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:10px;
+    margin-left:10px;
+}
